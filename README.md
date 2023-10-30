@@ -34,5 +34,3 @@ Here are some ideas to get you started:
 [Cross Validated](https://stats.stackexchange.com/users/361202/)
 
 [Checkio](https://py.checkio.org/user/dx2-66/)
-
-[Deep Neural Republic (NSFW)](https://t.me/deepneuralrepublic)
