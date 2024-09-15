@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 -->
 
 - 🥇 I'm proficient with:
-  - torch, scikit-learn, scikit-optimize, gplearn, numpy/scipy/statsmodels, pandas, xgboost/catboost/lgbm, matplotlib/seaborn/plotly, albumentations, category_encoders, HF transformers/diffusers, llamacpp, qdrant
+  - torch, scikit-learn, scikit-optimize, gplearn, numpy/scipy/statsmodels, pandas, xgboost/catboost/lgbm, matplotlib/seaborn/plotly, albumentations, category_encoders, HF transformers/diffusers, llamacpp, qdrant, fastapi, celery, streamlit
   
 - 🥈 I know my way around:
-  - spark, keras/tensorflow, OpenGL, OpenCV, CI/CD pipelines
+  - spark, SQL, keras/tensorflow, OpenGL, OpenCV, CI/CD pipelines
   
 - 🎖 Since I started, I've learned how to:
   - never accept the null hypothesis;
